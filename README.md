@@ -121,7 +121,7 @@ Create **15 technical indicators** across 5 categories:
 ## 📊 Visualizations
 
 ### 🔹 Data Separation Chart
-![Training Progress](results/training_progress.png)
+![Training Progress](images/training_progress.png)
 
 **What it shows**:
 - BTC closing prices from $28K to $68K over 5 years
@@ -131,7 +131,7 @@ Create **15 technical indicators** across 5 categories:
 ---
 
 ### 🔹 Feature Importance
-![Feature Importance](results/feature_importance.png)
+![Feature Importance](images/feature_importance.png)
 
 **Top 5 Features**:
 1. **SMA 20** (9.6%) – 20-period moving average
@@ -145,7 +145,7 @@ Create **15 technical indicators** across 5 categories:
 ---
 
 ### 🔹 Confusion Matrix
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 **Performance Breakdown**:
 ```
