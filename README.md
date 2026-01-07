@@ -344,5 +344,3 @@ While the model shows **crypto price prediction is extremely difficult** (53% ac
 - **TA-Lib** – Technical analysis indicators
 
 ---
-
-**Built with proper ML methodology, honest evaluation, and production-ready code.**
