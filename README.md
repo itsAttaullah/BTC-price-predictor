@@ -4,7 +4,7 @@
 
 This project implements a complete machine learning pipeline for Bitcoin price prediction using XGBoost classifier and FastAPI deployment.
 
-We fetch **5 years of hourly BTC data** from Binance API, engineer **15 technical indicators**, train an XGBoost model with proper **time-based validation**, and deploy it via a FastAPI backend for real-time predictions.
+I fetch **5 years of hourly BTC data** from Binance API, engineer **15 technical indicators**, train an XGBoost model with proper **time-based validation**, and deploy it via a FastAPI backend for real-time predictions.
 
 The model predicts whether BTC price will go **UP or DOWN** in the next **24 hours**, achieving **53.54% accuracy** with honest evaluation showing the challenges of cryptocurrency price prediction.
 
@@ -124,7 +124,6 @@ Create **15 technical indicators** across 5 categories:
 ![Training Progress](images/training_progress.png)
 
 **What it shows**:
-- BTC closing prices from $28K to $68K over 5 years
 - Clear train (70%) / validation (10%) / test (20%) split
 - Demonstrates proper time-based validation
 
@@ -336,7 +335,7 @@ While the model shows **crypto price prediction is extremely difficult** (53% ac
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Binance API** – Free historical cryptocurrency data
 - **XGBoost** – Excellent gradient boosting library
